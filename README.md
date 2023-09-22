@@ -11,13 +11,10 @@ https://ian-bravo.github.io/currency_exchanger/
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _JavaScript_
-* _npm v9.6.7_
-* _node v18.17.1_
-* _exchange rate API_
-
+* _C#_
+* _.Net_
+* _NuGet_
+* _MSTest_
 
 ## Description
 
